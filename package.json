@@ -16,9 +16,9 @@
     "react-native-screens": "~2.0.0-alpha.12",
     "react-native-unimodules": "~0.7.0",
     "react-native-web": "~0.11.7",
-    "appcenter": "2.6.1",
-    "appcenter-analytics": "2.6.1",
-    "appcenter-crashes": "2.6.1",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^2.0.15"
   },
